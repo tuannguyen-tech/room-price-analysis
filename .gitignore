@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# === Dự án room-price-analysis ===
+
+# Data (KHÔNG commit data thô/crawl lên GitHub)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Environment
+.env
+.env.local
+
+# Database dumps
+*.dump
+*.sql.gz
