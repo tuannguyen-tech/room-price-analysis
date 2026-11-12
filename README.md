@@ -31,7 +31,7 @@ Xây dựng pipeline dữ liệu hoàn chỉnh cho bài toán phân tích giá p
 ## 🚀 Cách chạy
 
 ```bash
-git clone https://github.com/<username>/room-price-analysis.git
+git clone https://github.com/tuannguyen-tech/room-price-analysis.git
 cd room-price-analysis
 
 # Khởi động Postgres
