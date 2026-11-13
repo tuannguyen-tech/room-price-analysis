@@ -7,7 +7,7 @@ Data pipeline & analysis for student rental prices in Vietnam.
 ## 📌 Mục tiêu
 
 Xây dựng pipeline dữ liệu hoàn chỉnh cho bài toán phân tích giá phòng trọ sinh viên:
-- Thu thập dữ liệu (Kaggle / Batdongsan / Chợ Tốt)
+- Thu thập dữ liệu (Kaggle)
 - Làm sạch & biến đổi (ETL)
 - Thiết kế star schema
 - Dashboard & báo cáo
